@@ -78,7 +78,7 @@ Please make sure to update tests as appropriate.
 
 ## License
 
-This project is licensed under the MIT License. See the LICENSE file for details. (https://github.com/MamunAbdullah17/Student-Management-System/blob/main/LICENSE)
+This project is licensed under the MIT License. See the LICENSE file for details. or Visit (https://github.com/MamunAbdullah17/Student-Management-System/blob/main/LICENSE)
 
 # Contact
 For any inquiries, please contact us at [[aam.work0@gmail.com]](mailto:[aam.work0@gmail.com]).
